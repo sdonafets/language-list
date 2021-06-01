@@ -1,18 +1,22 @@
 @forked from pandeysoni
 
-language-list
+extended-language-list
 ============
 
 Map Stores ISO 639-1 language codes to language names and vice versa.
 
-
+Supported languages:
+``` js
+en
+ar
+```
 # example 
 
 ``` js
-var languages = require('language-list')();
+var languages = require('extended-language-list')();
 
-console.log(languages.getLanguageName('bh')); // Bihari
-console.log(languages.getLanguageCode('Bihari')); // bh
+console.log(languages.getLanguageName('bh', 'en')); // Bihari
+console.log(languages.getLanguageCode('Bihari', 'en')); // bh
 ```
 
 # methods
@@ -20,38 +24,38 @@ console.log(languages.getLanguageCode('Bihari')); // bh
 Usage:
 
 ```
-var languages = require('language-list')();
+var languages = require('extended-language-list')();
 ```
 All input is case-insensitive.
 
-## getLanguageName(languageCode)
+## getLanguageName(languageCode, requiredLanguage)
 
-Expects the language code.
-Returns the language name for that language code.
+Expects a language code, and the desired language.
+Returns the language name for that language code in the desired language.
 If not found, it returns `undefined`.
 
-## getLanguageCode(languageName)
+## getLanguageCode(languageName, requiredLanguage)
 
-Expects the language name.
-Returns the language code for that language.
+Expects the language name, and the desired language.
+Returns the language code for that language in the desired language.
 If not found, it returns `undefined`.
 
-## getLanguageNames()
+## getLanguageNames(requiredLanguage)
 
-Returns an array of all language names.
+Returns an array of all language names in the desired language.
 
-## getLanguageCodes()
+## getLanguageCodes(requiredLanguage)
 
-Returns an array of all language codes.
+Returns an array of all language codes in the desired language.
 
-## getData()
+## getData(requiredLanguage)
 
-Returns an array of all language information, in the same format as it gets imported.
+Returns an array of all language information in the desired language, in the same format as it gets imported.
 
 # install
 
 ``` cli
-npm install language-list
+npm install extended-language-list
 ```
 
 # license

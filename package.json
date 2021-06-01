@@ -1,7 +1,7 @@
 {
-  "name": "language-list",
-  "version": "0.0.3",
-  "description": "Map Stores ISO 639-1 language codes to language names and vice versa.",
+  "name": "extended-language-list",
+  "version": "0.1.0",
+  "description": "Map Stores ISO 639-1 language codes to language names and vice versa (multilang version).",
   "main": "language-list.js",
   "directories": {
     "test": "test"
@@ -15,31 +15,37 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pandeysoni/language-list"
+    "url": "https://github.com/sdonafets/language-list"
   },
   "keywords": [
     "language",
     "languages",
-    "language-list"
+    "language-list",
+    "extended-language-list"
   ],
   "author": {
     "name": "sonipandey",
     "email": "sonipandey.71@gmail.com"
   },
+  "contributors": [
+    {
+      "name": "sdonafets",
+      "email": "stefano.desantis4@libero.com"
+    }
+  ],
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/pandeysoni/language-list/issues"
+    "url": "https://github.com/sdonafets/language-list/issues"
   },
-  "homepage": "https://github.com/pandeysoni/language-list",
+  "homepage": "https://github.com/sdonafets/language-list",
   "_npmUser": {
-    "name": "soni",
-    "email": "sonipandey.71@gmail.com"
+    "name": "sdonafets",
+    "email": "stefano.desantis4@libero.com"
   },
   "maintainers": [
     {
-      "name": "soni",
-      "email": "soni"
+      "name": "sdonafets",
+      "email": "stefano.desantis4@libero.com"
     }
-  ],
-  "_resolved": "https://registry.npmjs.org/language-list/-/language-list-0.0.3.tgz"
+  ]
 }

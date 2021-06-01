@@ -1,15 +1,14 @@
 'use strict';
-
-var test = require('tap').test;
-var languages = require('../')();
+const test = require('tap').test;
+const pkg = require('../')();
 
 test('get code from language name', function(t) {
-  t.equal(languages.getLanguageCode('Bihari'), 'bh', 'name "Bihari" should return bh');
-  t.equal(languages.getLanguageCode('bihari'), 'bh', 'name "bihari" should return bh');
-  t.equal(languages.getLanguageCode('BIHARI'), 'bh', 'name "BIHARI" should return bh');
-  t.type(languages.getLanguageCode('Bihari'), 'string', 'type of name "Bihari" is string');
-  t.type(languages.getLanguageCode('bh'), 'undefined', 'type of name "bh" is undefined');
-  t.type(languages.getLanguageCode('FarFarAwayLand'), 'undefined', 'name "FarFarAwayLand" should return undefined');
-  t.type(languages.getLanguageCode(''), 'undefined', 'empty name should return undefined');
+  t.equal(pkg.getLanguageCode('Bihari', "en"), 'bh', 'name "Bihari" should return bh');
+  t.equal(pkg.getLanguageCode('bihari', "en"), 'bh', 'name "bihari" should return bh');
+  t.equal(pkg.getLanguageCode('BIHARI', "en"), 'bh', 'name "BIHARI" should return bh');
+  t.type(pkg.getLanguageCode('Bihari', "en"), 'string', 'type of name "Bihari" is string');
+  t.type(pkg.getLanguageCode('bh', "en"), 'undefined', 'type of name "bh" is undefined');
+  t.type(pkg.getLanguageCode('FarFarAwayLand', "en"), 'undefined', 'name "FarFarAwayLand" should return undefined');
+  t.type(pkg.getLanguageCode('', "en"), 'undefined', 'empty name should return undefined');
   t.end();
 });
