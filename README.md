@@ -6,7 +6,7 @@ ts-extended-language-list
 Map Stores ISO 639-1 language codes to language names and vice versa. Made in Typescript.
 
 [![npm package](https://img.shields.io/badge/npm%20i-ts--extended--language--list-brightgreen)](https://www.npmjs.com/package/ts-extended-language-list)
-[![version number](https://img.shields.io/badge/version-0.0.1-green)](https://github.com/sdonafets/language-list/blob/master/CHANGELOG.md)
+[![version number](https://img.shields.io/badge/version-0.0.2-green)](https://github.com/sdonafets/language-list/blob/master/CHANGELOG.md)
 [![License](https://img.shields.io/badge/license-BSD-blue)](https://github.com/sdonafets/language-list/blob/master/LICENSE)
 
 Supported languages:

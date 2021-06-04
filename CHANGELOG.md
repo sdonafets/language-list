@@ -1,6 +1,6 @@
 # ts-extended-language-list ChangeLog
 
-##2021-06-05, Version 0.0.1 (Current), @sdonafets
+##2021-06-05, Version 0.0.2 (Current), @sdonafets
 
 ---
 
