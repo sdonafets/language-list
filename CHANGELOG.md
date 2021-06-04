@@ -1,6 +1,6 @@
 # ts-extended-language-list ChangeLog
 
-##2021-06-05, Version 1.0.0 (Current), @sdonafets
+##2021-06-05, Version 0.0.1 (Current), @sdonafets
 
 ---
 
@@ -11,4 +11,5 @@
 
 ###Commits
 
-- [ELL] Migrate project to typescript (@sdonafets) 
+- [ELL] Migrate project to typescript (@sdonafets)
+- [ELL] Modified package.json + Updated README and CHANGELOG (@sdonafets)

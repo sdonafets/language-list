@@ -1,6 +1,6 @@
 {
   "name": "ts-extended-language-list",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Stores ISO 639-1 language codes to language names and vice versa (multi-lang version). Made in typescript.",
   "homepage": "https://github.com/sdonafets/language-list/tree/ts_extended_language_list",
   "author": {
