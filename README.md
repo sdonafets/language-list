@@ -1,32 +1,44 @@
-@forked from pandeysoni
+####_Project forked from "language-list" @pandeysoni_
 
-extended-language-list
+ts-extended-language-list
 ============
 
-Map Stores ISO 639-1 language codes to language names and vice versa.
+Map Stores ISO 639-1 language codes to language names and vice versa. Made in Typescript.
+
+[![npm package](https://img.shields.io/badge/npm%20i-ts--extended--language--list-brightgreen)](https://www.npmjs.com/package/ts-extended-language-list)
+[![version number](https://img.shields.io/badge/version-1.0.0-green)](https://github.com/sdonafets/language-list/blob/master/CHANGELOG.md)
+[![License](https://img.shields.io/badge/license-BSD-blue)](https://github.com/sdonafets/language-list/blob/master/LICENSE)
 
 Supported languages:
 ``` js
 en
 ar
 ```
-# example 
+
+# Example of use
 
 ``` js
-var languages = require('extended-language-list')();
+const languages = require('ts-extended-language-list');
 
-console.log(languages.getLanguageName('bh', 'en')); // Bihari
-console.log(languages.getLanguageCode('Bihari', 'en')); // bh
+console.log(languages.getLanguageName('it', 'ar')); // إيطالي
+console.log(languages.getLanguageCode('Italian', 'en')); // it
 ```
 
-# methods
+#How to import
 
-Usage:
+``` js
+const languages = require('ts-extended-language-list');
+```
 
+or
+
+``` js
+import {ExtendedLanguageList} from 'ts-extended-language-list';
 ```
-var languages = require('extended-language-list')();
-```
-All input is case-insensitive.
+
+# Methods
+####All input is case-insensitive.
+
 
 ## getLanguageName(languageCode, requiredLanguage)
 
@@ -52,12 +64,7 @@ Returns an array of all language codes in the desired language.
 
 Returns an array of all language information in the desired language, in the same format as it gets imported.
 
-# install
-
-``` cli
-npm install extended-language-list
-```
-
-# license
-
-BSD
+---
+<p align="center">
+<a href="https://github.com/" title="Github"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/github-icon.svg" alt="Github" width="21px" height="21px"></a> <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/npm.svg" alt="npm" width="21px" height="21px"></a> <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> 
+</p>

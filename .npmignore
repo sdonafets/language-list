@@ -1,0 +1,10 @@
+tests
+tests/**
+.idea
+.idea/**
+src
+src/**
+lang
+lang/**
+tsconfig.json
+package-lock.json

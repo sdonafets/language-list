@@ -1,0 +1,726 @@
+[
+  {
+    "language": "عفار",
+    "code": "aa"
+  },
+  {
+    "language": "أبخازيا",
+    "code": "ab"
+  },
+  {
+    "language": "الأفريكانية",
+    "code": "af"
+  },
+  {
+    "language": "أكان",
+    "code": "ak"
+  },
+  {
+    "language": "الأمهرية",
+    "code": "am"
+  },
+  {
+    "language": "أراغون",
+    "code": "an"
+  },
+  {
+    "language": "عربى",
+    "code": "ar"
+  },
+  {
+    "language": "الأسامية",
+    "code": "as"
+  },
+  {
+    "language": "أفار",
+    "code": "av"
+  },
+  {
+    "language": "ايمارا",
+    "code": "ay"
+  },
+  {
+    "language": "الأذربيجانية",
+    "code": "az"
+  },
+  {
+    "language": "بشكير",
+    "code": "ba"
+  },
+  {
+    "language": "البيلاروسية",
+    "code": "be"
+  },
+  {
+    "language": "البلغارية",
+    "code": "bg"
+  },
+  {
+    "language": "البيهارية",
+    "code": "bh"
+  },
+  {
+    "language": "بيسلاما",
+    "code": "bi"
+  },
+  {
+    "language": "بامبارا",
+    "code": "bm"
+  },
+  {
+    "language": "البنغالية",
+    "code": "bn"
+  },
+  {
+    "language": "التبتية",
+    "code": "bo"
+  },
+  {
+    "language": "بريتون",
+    "code": "br"
+  },
+  {
+    "language": "البوسنية",
+    "code": "bs"
+  },
+  {
+    "language": "الكاتالونية",
+    "code": "ca"
+  },
+  {
+    "language": "الشيشان",
+    "code": "ce"
+  },
+  {
+    "language": "تشامورو",
+    "code": "ch"
+  },
+  {
+    "language": "كورسيكا",
+    "code": "co"
+  },
+  {
+    "language": "كري",
+    "code": "cr"
+  },
+  {
+    "language": "التشيكية",
+    "code": "cs"
+  },
+  {
+    "language": "الكنيسة السلافية القديمة / البلغارية القديمة",
+    "code": "cu"
+  },
+  {
+    "language": "تشوفاش",
+    "code": "cv"
+  },
+  {
+    "language": "ويلزي",
+    "code": "cy"
+  },
+  {
+    "language": "دانماركي",
+    "code": "da"
+  },
+  {
+    "language": "ألمانية",
+    "code": "de"
+  },
+  {
+    "language": "ديفيهي",
+    "code": "dv"
+  },
+  {
+    "language": "Dzongkha",
+    "code": "dz"
+  },
+  {
+    "language": "اللغة الإيوية",
+    "code": "ee"
+  },
+  {
+    "language": "اليونانية",
+    "code": "el"
+  },
+  {
+    "language": "الإنجليزية",
+    "code": "en"
+  },
+  {
+    "language": "اسبرانتو",
+    "code": "eo"
+  },
+  {
+    "language": "الأسبانية",
+    "code": "es"
+  },
+  {
+    "language": "الإستونية",
+    "code": "et"
+  },
+  {
+    "language": "الباسك",
+    "code": "eu"
+  },
+  {
+    "language": "اللغة الفارسية",
+    "code": "fa"
+  },
+  {
+    "language": "بول",
+    "code": "ff"
+  },
+  {
+    "language": "الفنلندية",
+    "code": "fi"
+  },
+  {
+    "language": "فيجي",
+    "code": "fj"
+  },
+  {
+    "language": "فارويز",
+    "code": "fo"
+  },
+  {
+    "language": "الفرنسية",
+    "code": "fr"
+  },
+  {
+    "language": "الفريزية الغربية",
+    "code": "fy"
+  },
+  {
+    "language": "إيرلندي",
+    "code": "ga"
+  },
+  {
+    "language": "الغيلية الاسكتلندية",
+    "code": "gd"
+  },
+  {
+    "language": "الجاليكية",
+    "code": "gl"
+  },
+  {
+    "language": "غواراني",
+    "code": "gn"
+  },
+  {
+    "language": "الغوجاراتية",
+    "code": "gu"
+  },
+  {
+    "language": "مانكس",
+    "code": "gv"
+  },
+  {
+    "language": "الهوسا",
+    "code": "ha"
+  },
+  {
+    "language": "اللغة العبرية",
+    "code": "he"
+  },
+  {
+    "language": "هندي",
+    "code": "hi"
+  },
+  {
+    "language": "هيري موتو",
+    "code": "ho"
+  },
+  {
+    "language": "الكرواتية",
+    "code": "hr"
+  },
+  {
+    "language": "الهايتية",
+    "code": "ht"
+  },
+  {
+    "language": "المجرية",
+    "code": "hu"
+  },
+  {
+    "language": "أرميني",
+    "code": "hy"
+  },
+  {
+    "language": "هيريرو",
+    "code": "hz"
+  },
+  {
+    "language": "إنترلينجوا",
+    "code": "ia"
+  },
+  {
+    "language": "الأندونيسية",
+    "code": "id"
+  },
+  {
+    "language": "إنترلينج",
+    "code": "ie"
+  },
+  {
+    "language": "الإيغبو",
+    "code": "ig"
+  },
+  {
+    "language": "سيتشوان يي",
+    "code": "ii"
+  },
+  {
+    "language": "Inupiak",
+    "code": "ik"
+  },
+  {
+    "language": "لغة الايدو",
+    "code": "io"
+  },
+  {
+    "language": "ايسلندي",
+    "code": "is"
+  },
+  {
+    "language": "إيطالي",
+    "code": "it"
+  },
+  {
+    "language": "إينوكتيتوت",
+    "code": "iu"
+  },
+  {
+    "language": "اليابانية",
+    "code": "ja"
+  },
+  {
+    "language": "الجاوية",
+    "code": "jv"
+  },
+  {
+    "language": "الجورجية",
+    "code": "ka"
+  },
+  {
+    "language": "كونغو",
+    "code": "kg"
+  },
+  {
+    "language": "كيكويو",
+    "code": "ki"
+  },
+  {
+    "language": "كوانياما",
+    "code": "kj"
+  },
+  {
+    "language": "الكازاخستانية",
+    "code": "kk"
+  },
+  {
+    "language": "جرينلاند",
+    "code": "kl"
+  },
+  {
+    "language": "كمبودي",
+    "code": "km"
+  },
+  {
+    "language": "الكانادا",
+    "code": "kn"
+  },
+  {
+    "language": "الكورية",
+    "code": "ko"
+  },
+  {
+    "language": "كانوري",
+    "code": "kr"
+  },
+  {
+    "language": "كشميري",
+    "code": "ks"
+  },
+  {
+    "language": "كردي",
+    "code": "ku"
+  },
+  {
+    "language": "كومي",
+    "code": "kv"
+  },
+  {
+    "language": "كورنيش",
+    "code": "kw"
+  },
+  {
+    "language": "قيرغيز",
+    "code": "ky"
+  },
+  {
+    "language": "لاتيني",
+    "code": "la"
+  },
+  {
+    "language": "اللوكسمبرجية",
+    "code": "lb"
+  },
+  {
+    "language": "غاندا",
+    "code": "lg"
+  },
+  {
+    "language": "ليمبورغيان",
+    "code": "li"
+  },
+  {
+    "language": "اللينغالا",
+    "code": "ln"
+  },
+  {
+    "language": "اللاوسي",
+    "code": "lo"
+  },
+  {
+    "language": "الليتوانية",
+    "code": "lt"
+  },
+  {
+    "language": "لاتفيا",
+    "code": "lv"
+  },
+  {
+    "language": "مدغشقر",
+    "code": "mg"
+  },
+  {
+    "language": "مارشال",
+    "code": "mh"
+  },
+  {
+    "language": "الماوري",
+    "code": "mi"
+  },
+  {
+    "language": "المقدونية",
+    "code": "mk"
+  },
+  {
+    "language": "المالايالامية",
+    "code": "ml"
+  },
+  {
+    "language": "المنغولية",
+    "code": "mn"
+  },
+  {
+    "language": "مولدوفا",
+    "code": "mo"
+  },
+  {
+    "language": "الماراثى",
+    "code": "mr"
+  },
+  {
+    "language": "لغة الملايو",
+    "code": "ms"
+  },
+  {
+    "language": "المالطية",
+    "code": "mt"
+  },
+  {
+    "language": "البورمية",
+    "code": "my"
+  },
+  {
+    "language": "ناورو",
+    "code": "na"
+  },
+  {
+    "language": "شمال نديبيلي",
+    "code": "nd"
+  },
+  {
+    "language": "النيبالية",
+    "code": "ne"
+  },
+  {
+    "language": "ندونغا",
+    "code": "ng"
+  },
+  {
+    "language": "اللغة الهولندية",
+    "code": "nl"
+  },
+  {
+    "language": "نينورسك النرويجي",
+    "code": "nn"
+  },
+  {
+    "language": "النرويجية",
+    "code": "no"
+  },
+  {
+    "language": "جنوب نديبيلي",
+    "code": "nr"
+  },
+  {
+    "language": "نافاجو",
+    "code": "nv"
+  },
+  {
+    "language": "شيشيوا",
+    "code": "ny"
+  },
+  {
+    "language": "الأوكيتان",
+    "code": "oc"
+  },
+  {
+    "language": "اوجيبوا",
+    "code": "oj"
+  },
+  {
+    "language": "أورومو",
+    "code": "om"
+  },
+  {
+    "language": "أوريا",
+    "code": "or"
+  },
+  {
+    "language": "أوسيتيا",
+    "code": "os"
+  },
+  {
+    "language": "البنجابية",
+    "code": "pa"
+  },
+  {
+    "language": "بالي",
+    "code": "pi"
+  },
+  {
+    "language": "تلميع",
+    "code": "pl"
+  },
+  {
+    "language": "الباشتو",
+    "code": "ps"
+  },
+  {
+    "language": "البرتغالية",
+    "code": "pt"
+  },
+  {
+    "language": "الكيتشوا",
+    "code": "qu"
+  },
+  {
+    "language": "رايتو رومانس",
+    "code": "rm"
+  },
+  {
+    "language": "كيروندي",
+    "code": "rn"
+  },
+  {
+    "language": "روماني",
+    "code": "ro"
+  },
+  {
+    "language": "الروسية",
+    "code": "ru"
+  },
+  {
+    "language": "رواندا",
+    "code": "rw"
+  },
+  {
+    "language": "السنسكريتية",
+    "code": "sa"
+  },
+  {
+    "language": "سردينيا",
+    "code": "sc"
+  },
+  {
+    "language": "السندية",
+    "code": "sd"
+  },
+  {
+    "language": "سانجو",
+    "code": "sg"
+  },
+  {
+    "language": "الصربية الكرواتية",
+    "code": "sh"
+  },
+  {
+    "language": "السنهالية",
+    "code": "si"
+  },
+  {
+    "language": "السلوفاكية",
+    "code": "sk"
+  },
+  {
+    "language": "السلوفينية",
+    "code": "sl"
+  },
+  {
+    "language": "ساموا",
+    "code": "sm"
+  },
+  {
+    "language": "شونا",
+    "code": "sn"
+  },
+  {
+    "language": "الصومال",
+    "code": "so"
+  },
+  {
+    "language": "الألبانية",
+    "code": "sq"
+  },
+  {
+    "language": "الصربية",
+    "code": "sr"
+  },
+  {
+    "language": "سواتي",
+    "code": "ss"
+  },
+  {
+    "language": "جنوب سوتو",
+    "code": "st"
+  },
+  {
+    "language": "السوندانيز",
+    "code": "su"
+  },
+  {
+    "language": "السويدية",
+    "code": "sv"
+  },
+  {
+    "language": "السواحيلية",
+    "code": "sw"
+  },
+  {
+    "language": "التاميل",
+    "code": "ta"
+  },
+  {
+    "language": "التيلجو",
+    "code": "te"
+  },
+  {
+    "language": "طاجيك",
+    "code": "tg"
+  },
+  {
+    "language": "التايلاندية",
+    "code": "th"
+  },
+  {
+    "language": "التيغرينيا",
+    "code": "ti"
+  },
+  {
+    "language": "التركمان",
+    "code": "tk"
+  },
+  {
+    "language": "تاغالوغ",
+    "code": "tl"
+  },
+  {
+    "language": "التسوانا",
+    "code": "tn"
+  },
+  {
+    "language": "تونغا",
+    "code": "to"
+  },
+  {
+    "language": "اللغة التركية",
+    "code": "tr"
+  },
+  {
+    "language": "تسونجا",
+    "code": "ts"
+  },
+  {
+    "language": "التتار",
+    "code": "tt"
+  },
+  {
+    "language": "توي",
+    "code": "tw"
+  },
+  {
+    "language": "التاهيتي",
+    "code": "ty"
+  },
+  {
+    "language": "الأويغور",
+    "code": "ug"
+  },
+  {
+    "language": "الأوكرانية",
+    "code": "uk"
+  },
+  {
+    "language": "الأردية",
+    "code": "ur"
+  },
+  {
+    "language": "فيندا",
+    "code": "ve"
+  },
+  {
+    "language": "فيتنامي",
+    "code": "vi"
+  },
+  {
+    "language": "فولابوك",
+    "code": "vo"
+  },
+  {
+    "language": "الوالون",
+    "code": "wa"
+  },
+  {
+    "language": "الولوف",
+    "code": "wo"
+  },
+  {
+    "language": "خوسا",
+    "code": "xh"
+  },
+  {
+    "language": "اليديشية",
+    "code": "yi"
+  },
+  {
+    "language": "اليوروبا",
+    "code": "yo"
+  },
+  {
+    "language": "تشوانغ",
+    "code": "za"
+  },
+  {
+    "language": "صينى",
+    "code": "zh"
+  },
+  {
+    "language": "الزولو",
+    "code": "zu"
+  }
+]
