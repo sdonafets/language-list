@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.ExtendedLanguageList = void 0;
 const en = require("./lang/en.json");
+const it = require("./lang/it.json");
 const ar = require("./lang/ar.json");
 var ExtendedLanguageList;
 (function (ExtendedLanguageList) {
@@ -9,6 +10,7 @@ var ExtendedLanguageList;
     let languageCodeMap = {};
     populateMaps(en, "en");
     populateMaps(ar, "ar");
+    populateMaps(it, "it");
     function populateMaps(data, lang = "en") {
         let nameMap = {};
         let codeMap = {};
@@ -33,6 +35,8 @@ var ExtendedLanguageList;
                 return en.map((l) => l.language);
             case "ar":
                 return ar.map((l) => l.language);
+            case "it":
+                return it.map((l) => l.language);
             default:
                 return [];
         }
@@ -44,6 +48,8 @@ var ExtendedLanguageList;
                 return en.map((l) => l.code);
             case "ar":
                 return ar.map((l) => l.code);
+            case "it":
+                return it.map((l) => l.code);
             default:
                 return [];
         }
@@ -55,6 +61,8 @@ var ExtendedLanguageList;
                 return en;
             case "ar":
                 return ar;
+            case "it":
+                return it;
             default:
                 return [];
         }

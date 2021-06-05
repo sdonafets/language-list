@@ -1,4 +1,5 @@
 const en = require("./lang/en.json");
+const it = require("./lang/it.json");
 const ar = require("./lang/ar.json");
 
 interface Data {
@@ -12,6 +13,7 @@ export namespace ExtendedLanguageList {
 
   populateMaps(en, "en");
   populateMaps(ar, "ar");
+  populateMaps(it, "it");
 
   function populateMaps(data: Data[], lang = "en"): void {
     let nameMap: any = {};
@@ -38,6 +40,8 @@ export namespace ExtendedLanguageList {
         return en.map((l: Data) => l.language);
       case "ar":
         return ar.map((l: Data) => l.language);
+      case "it":
+        return it.map((l: Data) => l.language);
       default:
         return []
     }
@@ -49,6 +53,8 @@ export namespace ExtendedLanguageList {
         return en.map((l: Data) => l.code);
       case "ar":
         return ar.map((l: Data) => l.code);
+      case "it":
+        return it.map((l: Data) => l.code);
       default:
         return []
     }
@@ -60,6 +66,8 @@ export namespace ExtendedLanguageList {
         return en;
       case "ar":
         return ar;
+      case "it":
+        return it;
       default:
         return [];
     }

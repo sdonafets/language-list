@@ -1,4 +1,4 @@
-####_Project forked from "language-list" @pandeysoni_
+#### _Project forked from "language-list" @pandeysoni_
 
 ts-extended-language-list
 ============
@@ -6,13 +6,14 @@ ts-extended-language-list
 Map Stores ISO 639-1 language codes to language names and vice versa. Made in Typescript.
 
 [![npm package](https://img.shields.io/badge/npm%20i-ts--extended--language--list-brightgreen)](https://www.npmjs.com/package/ts-extended-language-list)
-[![version number](https://img.shields.io/badge/version-0.0.2-green)](https://github.com/sdonafets/language-list/blob/master/CHANGELOG.md)
+[![version number](https://img.shields.io/badge/version-0.0.3-green)](https://github.com/sdonafets/language-list/blob/master/CHANGELOG.md)
 [![License](https://img.shields.io/badge/license-BSD-blue)](https://github.com/sdonafets/language-list/blob/master/LICENSE)
 
 Supported languages:
 ``` js
 en
 ar
+it
 ```
 
 # Example of use
@@ -22,9 +23,10 @@ const languages = require('ts-extended-language-list');
 
 console.log(languages.getLanguageName('it', 'ar')); // إيطالي
 console.log(languages.getLanguageCode('Italian', 'en')); // it
+console.log(languages.getLanguageName('en', 'it')); // Inglese
 ```
 
-#How to import
+# How to import
 
 ``` js
 const languages = require('ts-extended-language-list');
@@ -37,7 +39,7 @@ import {ExtendedLanguageList} from 'ts-extended-language-list';
 ```
 
 # Methods
-####All input is case-insensitive.
+#### All input is case-insensitive.
 
 
 ## getLanguageName(languageCode, requiredLanguage)
