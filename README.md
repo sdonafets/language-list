@@ -9,6 +9,10 @@ Supported languages:
 ``` js
 en
 ar
+ml
+hi
+tl
+ur
 ```
 # example 
 
