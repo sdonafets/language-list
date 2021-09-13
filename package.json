@@ -1,6 +1,6 @@
 {
   "name": "extended-language-list",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Map Stores ISO 639-1 language codes to language names and vice versa (multilang version).",
   "main": "language-list.js",
   "directories": {
@@ -31,6 +31,10 @@
     {
       "name": "sdonafets",
       "email": "stefano.desantis4@libero.com"
+    },
+    {
+      "name": "fossedihelm",
+      "email": "fossedihelm@gmail.com"
     }
   ],
   "license": "BSD",
@@ -46,6 +50,10 @@
     {
       "name": "sdonafets",
       "email": "stefano.desantis4@libero.com"
+    },
+    {
+      "name": "fossedihelm",
+      "email": "fossedihelm@gmail.com"
     }
   ]
 }
