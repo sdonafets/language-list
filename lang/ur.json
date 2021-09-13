@@ -1,0 +1,726 @@
+[
+  {
+    "language": "افار",
+    "code": "aa"
+  },
+  {
+    "language": "ابخازیان",
+    "code": "ab"
+  },
+  {
+    "language": "افریقی",
+    "code": "af"
+  },
+  {
+    "language": "اکان",
+    "code": "ak"
+  },
+  {
+    "language": "امہاری",
+    "code": "am"
+  },
+  {
+    "language": "ارگونی",
+    "code": "an"
+  },
+  {
+    "language": "عربی",
+    "code": "ar"
+  },
+  {
+    "language": "آسامی",
+    "code": "as"
+  },
+  {
+    "language": "اوار",
+    "code": "av"
+  },
+  {
+    "language": "عمارہ",
+    "code": "ay"
+  },
+  {
+    "language": "آذربائیجانی",
+    "code": "az"
+  },
+  {
+    "language": "بشکیر",
+    "code": "ba"
+  },
+  {
+    "language": "بیلاروسی",
+    "code": "be"
+  },
+  {
+    "language": "بلغاریہ",
+    "code": "bg"
+  },
+  {
+    "language": "بہاری",
+    "code": "bh"
+  },
+  {
+    "language": "بسلام",
+    "code": "bi"
+  },
+  {
+    "language": "بمبرا",
+    "code": "bm"
+  },
+  {
+    "language": "بنگالی",
+    "code": "bn"
+  },
+  {
+    "language": "تبتی",
+    "code": "bo"
+  },
+  {
+    "language": "بریٹن",
+    "code": "br"
+  },
+  {
+    "language": "بوسنیائی",
+    "code": "bs"
+  },
+  {
+    "language": "کاتالان",
+    "code": "ca"
+  },
+  {
+    "language": "چیچن",
+    "code": "ce"
+  },
+  {
+    "language": "چمورو",
+    "code": "ch"
+  },
+  {
+    "language": "کارسیکن",
+    "code": "co"
+  },
+  {
+    "language": "کری",
+    "code": "cr"
+  },
+  {
+    "language": "چیک",
+    "code": "cs"
+  },
+  {
+    "language": "اولڈ چرچ سلاوونک / پرانا بلغاریہ",
+    "code": "cu"
+  },
+  {
+    "language": "چواش",
+    "code": "cv"
+  },
+  {
+    "language": "ویلش",
+    "code": "cy"
+  },
+  {
+    "language": "ڈینش",
+    "code": "da"
+  },
+  {
+    "language": "جرمن",
+    "code": "de"
+  },
+  {
+    "language": "دیوہی",
+    "code": "dv"
+  },
+  {
+    "language": "ژونگکھا",
+    "code": "dz"
+  },
+  {
+    "language": "ایو",
+    "code": "ee"
+  },
+  {
+    "language": "یونانی",
+    "code": "el"
+  },
+  {
+    "language": "انگریزی",
+    "code": "en"
+  },
+  {
+    "language": "ایسپرانٹو",
+    "code": "eo"
+  },
+  {
+    "language": "ہسپانوی",
+    "code": "es"
+  },
+  {
+    "language": "اسٹونین",
+    "code": "et"
+  },
+  {
+    "language": "باسک",
+    "code": "eu"
+  },
+  {
+    "language": "فارسی",
+    "code": "fa"
+  },
+  {
+    "language": "پیل",
+    "code": "ff"
+  },
+  {
+    "language": "فینیش",
+    "code": "fi"
+  },
+  {
+    "language": "فجی",
+    "code": "fj"
+  },
+  {
+    "language": "فیروزی",
+    "code": "fo"
+  },
+  {
+    "language": "فرانسیسی",
+    "code": "fr"
+  },
+  {
+    "language": "مغربی فریسیائی",
+    "code": "fy"
+  },
+  {
+    "language": "آئرش",
+    "code": "ga"
+  },
+  {
+    "language": "سکاٹش گیلک",
+    "code": "gd"
+  },
+  {
+    "language": "گالیشین",
+    "code": "gl"
+  },
+  {
+    "language": "گورانی",
+    "code": "gn"
+  },
+  {
+    "language": "گجراتی",
+    "code": "gu"
+  },
+  {
+    "language": "مانکس",
+    "code": "gv"
+  },
+  {
+    "language": "ہوسا",
+    "code": "ha"
+  },
+  {
+    "language": "عبرانی",
+    "code": "he"
+  },
+  {
+    "language": "ہندی",
+    "code": "hi"
+  },
+  {
+    "language": "ہیری موٹو",
+    "code": "ho"
+  },
+  {
+    "language": "کروشین",
+    "code": "hr"
+  },
+  {
+    "language": "ہیتی",
+    "code": "ht"
+  },
+  {
+    "language": "ہنگری",
+    "code": "hu"
+  },
+  {
+    "language": "آرمینیائی",
+    "code": "hy"
+  },
+  {
+    "language": "ہیرو",
+    "code": "hz"
+  },
+  {
+    "language": "انٹرلنگوا",
+    "code": "ia"
+  },
+  {
+    "language": "انڈونیشیائی",
+    "code": "id"
+  },
+  {
+    "language": "انٹرلنگ",
+    "code": "ie"
+  },
+  {
+    "language": "اگبو",
+    "code": "ig"
+  },
+  {
+    "language": "سیچوان یی",
+    "code": "ii"
+  },
+  {
+    "language": "انوپیاک",
+    "code": "ik"
+  },
+  {
+    "language": "میں کروں گا",
+    "code": "io"
+  },
+  {
+    "language": "آئس لینڈک",
+    "code": "is"
+  },
+  {
+    "language": "اطالوی",
+    "code": "it"
+  },
+  {
+    "language": "انکیتوت",
+    "code": "iu"
+  },
+  {
+    "language": "جاپانی",
+    "code": "ja"
+  },
+  {
+    "language": "جاوی",
+    "code": "jv"
+  },
+  {
+    "language": "جارجیائی",
+    "code": "ka"
+  },
+  {
+    "language": "کانگو",
+    "code": "kg"
+  },
+  {
+    "language": "کیکو",
+    "code": "ki"
+  },
+  {
+    "language": "کوانیما",
+    "code": "kj"
+  },
+  {
+    "language": "قازق",
+    "code": "kk"
+  },
+  {
+    "language": "گرین لینڈک",
+    "code": "kl"
+  },
+  {
+    "language": "کمبوڈین",
+    "code": "km"
+  },
+  {
+    "language": "کناڈا",
+    "code": "kn"
+  },
+  {
+    "language": "کورین",
+    "code": "ko"
+  },
+  {
+    "language": "کنوری",
+    "code": "kr"
+  },
+  {
+    "language": "کشمیری",
+    "code": "ks"
+  },
+  {
+    "language": "کرد",
+    "code": "ku"
+  },
+  {
+    "language": "کومی",
+    "code": "kv"
+  },
+  {
+    "language": "کارنش",
+    "code": "kw"
+  },
+  {
+    "language": "کرغیز",
+    "code": "ky"
+  },
+  {
+    "language": "لاطینی",
+    "code": "la"
+  },
+  {
+    "language": لکسمبرگ,
+    "code": "lb"
+  },
+  {
+    "language": "گانڈا",
+    "code": "lg"
+  },
+  {
+    "language": "لمبرگین",
+    "code": "li"
+  },
+  {
+    "language": "لنگالا",
+    "code": "ln"
+  },
+  {
+    "language": "لاوشین",
+    "code": "lo"
+  },
+  {
+    "language": "لیتھوانین",
+    "code": "lt"
+  },
+  {
+    "language": "لیٹوین",
+    "code": "lv"
+  },
+  {
+    "language": "ملاگاسی",
+    "code": "mg"
+  },
+  {
+    "language": "مارشل",
+    "code": "mh"
+  },
+  {
+    "language": "ماؤری",
+    "code": "mi"
+  },
+  {
+    "language": "مقدونیہ",
+    "code": "mk"
+  },
+  {
+    "language": "ملیالم",
+    "code": "ml"
+  },
+  {
+    "language": "منگولین",
+    "code": "mn"
+  },
+  {
+    "language": "مالڈووان",
+    "code": "mo"
+  },
+  {
+    "language": "مراٹھی",
+    "code": "mr"
+  },
+  {
+    "language": "ملائی",
+    "code": "ms"
+  },
+  {
+    "language": "مالٹی",
+    "code": "mt"
+  },
+  {
+    "language": "برمی",
+    "code": "my"
+  },
+  {
+    "language": "ناروان",
+    "code": "na"
+  },
+  {
+    "language": "شمالی Ndebele",
+    "code": "nd"
+  },
+  {
+    "language": "نیپالی",
+    "code": "ne"
+  },
+  {
+    "language": "ڈونگا",
+    "code": "ng"
+  },
+  {
+    "language": "ڈچ",
+    "code": "nl"
+  },
+  {
+    "language": "نارویجن نینورسک",
+    "code": "nn"
+  },
+  {
+    "language": "نارویجن",
+    "code": "no"
+  },
+  {
+    "language": "جنوبی Ndebele",
+    "code": "nr"
+  },
+  {
+    "language": "ناواجو",
+    "code": "nv"
+  },
+  {
+    "language": "چیچیوا",
+    "code": "ny"
+  },
+  {
+    "language": "آکسیٹن",
+    "code": "oc"
+  },
+  {
+    "language": "اوجیبوا",
+    "code": "oj"
+  },
+  {
+    "language": "اورومو",
+    "code": "om"
+  },
+  {
+    "language": "اوریا",
+    "code": "or"
+  },
+  {
+    "language": "اوسیٹین",
+    "code": "os"
+  },
+  {
+    "language": "پنجابی",
+    "code": "pa"
+  },
+  {
+    "language": "پالی",
+    "code": "pi"
+  },
+  {
+    "language": "پولش",
+    "code": "pl"
+  },
+  {
+    "language": "پشتو",
+    "code": "ps"
+  },
+  {
+    "language": "پرتگالی",
+    "code": "pt"
+  },
+  {
+    "language": "کیچوا",
+    "code": "qu"
+  },
+  {
+    "language": "ریٹو رومانس",
+    "code": "rm"
+  },
+  {
+    "language": "کروندی",
+    "code": "rn"
+  },
+  {
+    "language": "رومانیہ",
+    "code": "ro"
+  },
+  {
+    "language": "روسی",
+    "code": "ru"
+  },
+  {
+    "language": "روانڈی",
+    "code": "rw"
+  },
+  {
+    "language": "سنسکرت",
+    "code": "sa"
+  },
+  {
+    "language": "سارڈینین",
+    "code": "sc"
+  },
+  {
+    "language": "سندھی",
+    "code": "sd"
+  },
+  {
+    "language": "سانگو",
+    "code": "sg"
+  },
+  {
+    "language": "سرب کروشین",
+    "code": "sh"
+  },
+  {
+    "language": "سنہالی",
+    "code": "si"
+  },
+  {
+    "language": "سلوواک",
+    "code": "sk"
+  },
+  {
+    "language": "سلووینیا",
+    "code": "sl"
+  },
+  {
+    "language": "ساموانی",
+    "code": "sm"
+  },
+  {
+    "language": "شونا",
+    "code": "sn"
+  },
+  {
+    "language": "صومالیہ",
+    "code": "so"
+  },
+  {
+    "language": "البانیہ",
+    "code": "sq"
+  },
+  {
+    "language": "سربیائی",
+    "code": "sr"
+  },
+  {
+    "language": "سواتی",
+    "code": "ss"
+  },
+  {
+    "language": "جنوبی سوتھو",
+    "code": "st"
+  },
+  {
+    "language": "سنڈانی",
+    "code": "su"
+  },
+  {
+    "language": "سویڈش",
+    "code": "sv"
+  },
+  {
+    "language": "سواحلی",
+    "code": "sw"
+  },
+  {
+    "language": "تامل",
+    "code": "ta"
+  },
+  {
+    "language": "تیلگو",
+    "code": "te"
+  },
+  {
+    "language": "تاجک",
+    "code": "tg"
+  },
+  {
+    "language": "تھائی",
+    "code": "th"
+  },
+  {
+    "language": "ٹگرینیا",
+    "code": "ti"
+  },
+  {
+    "language": "ترکمان",
+    "code": "tk"
+  },
+  {
+    "language": "ٹیگالوگ",
+    "code": "tl"
+  },
+  {
+    "language": "سوانا",
+    "code": "tn"
+  },
+  {
+    "language": "ٹونگا",
+    "code": "to"
+  },
+  {
+    "language": "ترکی",
+    "code": "tr"
+  },
+  {
+    "language": "سونگا",
+    "code": "ts"
+  },
+  {
+    "language": "تاتار",
+    "code": "tt"
+  },
+  {
+    "language": "ٹوئی",
+    "code": "tw"
+  },
+  {
+    "language": "تاہیتی",
+    "code": "ty"
+  },
+  {
+    "language": "ایغور",
+    "code": "ug"
+  },
+  {
+    "language": "یوکرین",
+    "code": "uk"
+  },
+  {
+    "language": "اردو",
+    "code": "ur"
+  },
+  {
+    "language": "وینڈا",
+    "code": "ve"
+  },
+  {
+    "language": "ویتنامی",
+    "code": "vi"
+  },
+  {
+    "language": "وولاپک",
+    "code": "vo"
+  },
+  {
+    "language": "والون",
+    "code": "wa"
+  },
+  {
+    "language": "وولوف",
+    "code": "wo"
+  },
+  {
+    "language": "کھوسا",
+    "code": "xh"
+  },
+  {
+    "language": "یدش",
+    "code": "yi"
+  },
+  {
+    "language": "یوروبا",
+    "code": "yo"
+  },
+  {
+    "language": "ژوانگ",
+    "code": "za"
+  },
+  {
+    "language": "چینی",
+    "code": "zh"
+  },
+  {
+    "language": "زولو",
+    "code": "zu"
+  }
+]

@@ -1,0 +1,726 @@
+[
+  {
+    "language": "അഫർ",
+    "code": "aa"
+  },
+  {
+    "language": "അബ്ഖാസിയൻ",
+    "code": "ab"
+  },
+  {
+    "language": "ആഫ്രിക്കൻസ്",
+    "code": "af"
+  },
+  {
+    "language": "അക്കൻ",
+    "code": "ak"
+  },
+  {
+    "language": "അംഹാരിക്",
+    "code": "am"
+  },
+  {
+    "language": "അരഗോണീസ്",
+    "code": "an"
+  },
+  {
+    "language": "അറബിക്",
+    "code": "ar"
+  },
+  {
+    "language": "ആസാമീസ്",
+    "code": "as"
+  },
+  {
+    "language": "അവാർ",
+    "code": "av"
+  },
+  {
+    "language": "അയ്മര",
+    "code": "ay"
+  },
+  {
+    "language": "അസർബൈജാനി",
+    "code": "az"
+  },
+  {
+    "language": "ബഷ്കീർ",
+    "code": "ba"
+  },
+  {
+    "language": "ബെലാറഷ്യൻ",
+    "code": "be"
+  },
+  {
+    "language": "ബൾഗേറിയൻ",
+    "code": "bg"
+  },
+  {
+    "language": "ബിഹാരി",
+    "code": "bh"
+  },
+  {
+    "language": "ബിസ്ലാമ",
+    "code": "bi"
+  },
+  {
+    "language": "ബംബാര",
+    "code": "bm"
+  },
+  {
+    "language": "ബംഗാളി",
+    "code": "bn"
+  },
+  {
+    "language": "ടിബറ്റൻ",
+    "code": "bo"
+  },
+  {
+    "language": "ബ്രെട്ടൻ",
+    "code": "br"
+  },
+  {
+    "language": "ബോസ്നിയൻ",
+    "code": "bs"
+  },
+  {
+    "language": "കറ്റാലൻ",
+    "code": "ca"
+  },
+  {
+    "language": "ചെചെൻ",
+    "code": "ce"
+  },
+  {
+    "language": "ചമോറോ",
+    "code": "ch"
+  },
+  {
+    "language": "കോർസിക്കൻ",
+    "code": "co"
+  },
+  {
+    "language": "ക്രീ",
+    "code": "cr"
+  },
+  {
+    "language": "ചെക്ക്",
+    "code": "cs"
+  },
+  {
+    "language": "പഴയ പള്ളി സ്ലാവോണിക് / പഴയ ബൾഗേറിയൻ",
+    "code": "cu"
+  },
+  {
+    "language": "ചുവാഷ്",
+    "code": "cv"
+  },
+  {
+    "language": "വെൽഷ്",
+    "code": "cy"
+  },
+  {
+    "language": "ഡാനിഷ്",
+    "code": "da"
+  },
+  {
+    "language": "ജർമ്മൻ",
+    "code": "de"
+  },
+  {
+    "language": "ദിവേഹി",
+    "code": "dv"
+  },
+  {
+    "language": "സോങ്ഖ",
+    "code": "dz"
+  },
+  {
+    "language": "ഇവ്",
+    "code": "ee"
+  },
+  {
+    "language": "ഗ്രീക്ക്",
+    "code": "el"
+  },
+  {
+    "language": "ഇംഗ്ലീഷ്",
+    "code": "en"
+  },
+  {
+    "language": "എസ്പെരാന്റോ",
+    "code": "eo"
+  },
+  {
+    "language": "സ്പാനിഷ്",
+    "code": "es"
+  },
+  {
+    "language": "എസ്റ്റോണിയൻ",
+    "code": "et"
+  },
+  {
+    "language": "ബാസ്ക്",
+    "code": "eu"
+  },
+  {
+    "language": "പേർഷ്യൻ",
+    "code": "fa"
+  },
+  {
+    "language": "പ്യൂൾ",
+    "code": "ff"
+  },
+  {
+    "language": "ഫിന്നിഷ്",
+    "code": "fi"
+  },
+  {
+    "language": "ഫിജിയൻ",
+    "code": "fj"
+  },
+  {
+    "language": "ഫറോസ്",
+    "code": "fo"
+  },
+  {
+    "language": "ഫ്രഞ്ച്",
+    "code": "fr"
+  },
+  {
+    "language": "വെസ്റ്റ് ഫ്രിഷ്യൻ",
+    "code": "fy"
+  },
+  {
+    "language": "ഐറിഷ്",
+    "code": "ga"
+  },
+  {
+    "language": "സ്കോട്ടിഷ് ഗാലിക്",
+    "code": "gd"
+  },
+  {
+    "language": "ഗലീഷ്യൻ",
+    "code": "gl"
+  },
+  {
+    "language": "ഗ്വാറാനി",
+    "code": "gn"
+  },
+  {
+    "language": "ഗുജറാത്തി",
+    "code": "gu"
+  },
+  {
+    "language": "മാൻക്സ്",
+    "code": "gv"
+  },
+  {
+    "language": "ഹൗസ",
+    "code": "ha"
+  },
+  {
+    "language": "ഹീബ്രു",
+    "code": "he"
+  },
+  {
+    "language": "ഹിന്ദി",
+    "code": "hi"
+  },
+  {
+    "language": "ഹിരി മോട്ടു",
+    "code": "ho"
+  },
+  {
+    "language": "ക്രൊയേഷ്യൻ",
+    "code": "hr"
+  },
+  {
+    "language": "ഹെയ്തിയൻ",
+    "code": "ht"
+  },
+  {
+    "language": "ഹംഗേറിയൻ",
+    "code": "hu"
+  },
+  {
+    "language": "അർമേനിയൻ",
+    "code": "hy"
+  },
+  {
+    "language": "ഹെരേറോ",
+    "code": "hz"
+  },
+  {
+    "language": "ഇന്റർലിംഗുവ",
+    "code": "ia"
+  },
+  {
+    "language": "ഇന്തോനേഷ്യൻ",
+    "code": "id"
+  },
+  {
+    "language": "ഭാഷ",
+    "code": "ie"
+  },
+  {
+    "language": "ഇഗ്ബോ",
+    "code": "ig"
+  },
+  {
+    "language": "സിചുവാൻ യി",
+    "code": "ii"
+  },
+  {
+    "language": "ഇനുപിയാക്ക്",
+    "code": "ik"
+  },
+  {
+    "language": "ഞാന് ചെയ്യാം",
+    "code": "io"
+  },
+  {
+    "language": "ഐസ്ലാൻഡിക്",
+    "code": "is"
+  },
+  {
+    "language": "ഇറ്റാലിയൻ",
+    "code": "it"
+  },
+  {
+    "language": "ഇനുക്തിതുട്ട്",
+    "code": "iu"
+  },
+  {
+    "language": "ജാപ്പനീസ്",
+    "code": "ja"
+  },
+  {
+    "language": "ജാവനീസ്",
+    "code": "jv"
+  },
+  {
+    "language": "ജോർജിയൻ",
+    "code": "ka"
+  },
+  {
+    "language": "കോംഗോ",
+    "code": "kg"
+  },
+  {
+    "language": "കിക്കുയു",
+    "code": "ki"
+  },
+  {
+    "language": "കുഅന്യാമ",
+    "code": "kj"
+  },
+  {
+    "language": "കസാഖ്",
+    "code": "kk"
+  },
+  {
+    "language": "ഗ്രീൻലാന്റിക്",
+    "code": "kl"
+  },
+  {
+    "language": "കംബോഡിയൻ",
+    "code": "km"
+  },
+  {
+    "language": "കന്നഡ",
+    "code": "kn"
+  },
+  {
+    "language": "കൊറിയൻ",
+    "code": "ko"
+  },
+  {
+    "language": "കാനൂരി",
+    "code": "kr"
+  },
+  {
+    "language": "കാശ്മീരി",
+    "code": "ks"
+  },
+  {
+    "language": "കുർദിഷ്",
+    "code": "ku"
+  },
+  {
+    "language": "കോമി",
+    "code": "kv"
+  },
+  {
+    "language": "കോർണിഷ്",
+    "code": "kw"
+  },
+  {
+    "language": "കിർഗിസ്",
+    "code": "ky"
+  },
+  {
+    "language": "ലാറ്റിൻ",
+    "code": "la"
+  },
+  {
+    "language": "ലക്സംബർഗിഷ്",
+    "code": "lb"
+  },
+  {
+    "language": "ഗന്ധ",
+    "code": "lg"
+  },
+  {
+    "language": "ലിംബുർജിയൻ",
+    "code": "li"
+  },
+  {
+    "language": "ലിംഗാല",
+    "code": "ln"
+  },
+  {
+    "language": "ലാവോഷ്യൻ",
+    "code": "lo"
+  },
+  {
+    "language": "ലിത്വാനിയൻ",
+    "code": "lt"
+  },
+  {
+    "language": "ലാത്വിയൻ",
+    "code": "lv"
+  },
+  {
+    "language": "മലഗാസി",
+    "code": "mg"
+  },
+  {
+    "language": "മാർഷല്ലീസ്",
+    "code": "mh"
+  },
+  {
+    "language": "മാവോറി",
+    "code": "mi"
+  },
+  {
+    "language": "മാസിഡോണിയൻ",
+    "code": "mk"
+  },
+  {
+    "language": "മലയാളം",
+    "code": "ml"
+  },
+  {
+    "language": "മംഗോളിയൻ",
+    "code": "mn"
+  },
+  {
+    "language": "മോൾഡോവൻ",
+    "code": "mo"
+  },
+  {
+    "language": "മറാത്തി",
+    "code": "mr"
+  },
+  {
+    "language": "മലയാളി",
+    "code": "ms"
+  },
+  {
+    "language": "മാൾട്ടീസ്",
+    "code": "mt"
+  },
+  {
+    "language": "ബർമീസ്",
+    "code": "my"
+  },
+  {
+    "language": "നൗറുവൻ",
+    "code": "na"
+  },
+  {
+    "language": "വടക്കൻ ഡെബെലെ",
+    "code": "nd"
+  },
+  {
+    "language": "നേപ്പാളി",
+    "code": "ne"
+  },
+  {
+    "language": "നൊംഗ",
+    "code": "ng"
+  },
+  {
+    "language": "ഡച്ച്",
+    "code": "nl"
+  },
+  {
+    "language": "നോർവീജിയൻ നൈനോർസ്ക്",
+    "code": "nn"
+  },
+  {
+    "language": "നോർവീജിയൻ",
+    "code": "no"
+  },
+  {
+    "language": "സൗത്ത് എൻഡെബെലെ",
+    "code": "nr"
+  },
+  {
+    "language": "നവാജോ",
+    "code": "nv"
+  },
+  {
+    "language": "ചിചേവ",
+    "code": "ny"
+  },
+  {
+    "language": "ഒക്സിറ്റൻ",
+    "code": "oc"
+  },
+  {
+    "language": "ഒജിബ്വ",
+    "code": "oj"
+  },
+  {
+    "language": "ഒറോമോ",
+    "code": "om"
+  },
+  {
+    "language": "ഒറിയ",
+    "code": "or"
+  },
+  {
+    "language": "ഒസ്സെഷ്യൻ",
+    "code": "os"
+  },
+  {
+    "language": "പഞ്ചാബി",
+    "code": "pa"
+  },
+  {
+    "language": "പാലി",
+    "code": "pi"
+  },
+  {
+    "language": "പോളിഷ്",
+    "code": "pl"
+  },
+  {
+    "language": "പഷ്തോ",
+    "code": "ps"
+  },
+  {
+    "language": "പോർച്ചുഗീസ്",
+    "code": "pt"
+  },
+  {
+    "language": "ക്വെച്ചുവ",
+    "code": "qu"
+  },
+  {
+    "language": "റേറ്റോ റൊമാൻസ്",
+    "code": "rm"
+  },
+  {
+    "language": "കിറുണ്ടി",
+    "code": "rn"
+  },
+  {
+    "language": "റൊമാനിയൻ",
+    "code": "ro"
+  },
+  {
+    "language": "റഷ്യൻ",
+    "code": "ru"
+  },
+  {
+    "language": "റുവാണ്ടി",
+    "code": "rw"
+  },
+  {
+    "language": "സംസ്കൃതം",
+    "code": "sa"
+  },
+  {
+    "language": "സാർഡിനിയൻ",
+    "code": "sc"
+  },
+  {
+    "language": "സിന്ധി",
+    "code": "sd"
+  },
+  {
+    "language": "സംഗോ",
+    "code": "sg"
+  },
+  {
+    "language": "സെർബോ-ക്രൊയേഷ്യൻ",
+    "code": "sh"
+  },
+  {
+    "language": "സിംഹളർ",
+    "code": "si"
+  },
+  {
+    "language": "സ്ലൊവാക്",
+    "code": "sk"
+  },
+  {
+    "language": "സ്ലൊവേനിയൻ",
+    "code": "sl"
+  },
+  {
+    "language": "സമോവൻ",
+    "code": "sm"
+  },
+  {
+    "language": "ഷോണ",
+    "code": "sn"
+  },
+  {
+    "language": "സൊമാലിയ",
+    "code": "so"
+  },
+  {
+    "language": "അൽബേനിയൻ",
+    "code": "sq"
+  },
+  {
+    "language": "സെർബിയൻ",
+    "code": "sr"
+  },
+  {
+    "language": "സ്വാതി",
+    "code": "ss"
+  },
+  {
+    "language": "തെക്കൻ സോതോ",
+    "code": "st"
+  },
+  {
+    "language": "സുന്ദനീസ്",
+    "code": "su"
+  },
+  {
+    "language": "സ്വീഡിഷ്",
+    "code": "sv"
+  },
+  {
+    "language": "സ്വാഹിലി",
+    "code": "sw"
+  },
+  {
+    "language": "തമിഴ്",
+    "code": "ta"
+  },
+  {
+    "language": "തെലുങ്ക്",
+    "code": "te"
+  },
+  {
+    "language": "താജിക്",
+    "code": "tg"
+  },
+  {
+    "language": "തായ്",
+    "code": "th"
+  },
+  {
+    "language": "ടിഗ്രിന്യ",
+    "code": "ti"
+  },
+  {
+    "language": "തുർക്ക്മെൻ",
+    "code": "tk"
+  },
+  {
+    "language": "ടാഗലോഗ്",
+    "code": "tl"
+  },
+  {
+    "language": "സ്വാന",
+    "code": "tn"
+  },
+  {
+    "language": "ടോംഗ",
+    "code": "to"
+  },
+  {
+    "language": "ടർക്കിഷ്",
+    "code": "tr"
+  },
+  {
+    "language": "സോംഗ",
+    "code": "ts"
+  },
+  {
+    "language": "ടാറ്റർ",
+    "code": "tt"
+  },
+  {
+    "language": "ട്വി",
+    "code": "tw"
+  },
+  {
+    "language": "തഹിതിയൻ",
+    "code": "ty"
+  },
+  {
+    "language": "ഉയ്ഗൂർ",
+    "code": "ug"
+  },
+  {
+    "language": "ഉക്രേനിയൻ",
+    "code": "uk"
+  },
+  {
+    "language": "ഉറുദു",
+    "code": "ur"
+  },
+  {
+    "language": "വെണ്ട",
+    "code": "ve"
+  },
+  {
+    "language": "വിയറ്റ്നാമീസ്",
+    "code": "vi"
+  },
+  {
+    "language": "വോളാപിക്",
+    "code": "vo"
+  },
+  {
+    "language": "വാലൂൺ",
+    "code": "wa"
+  },
+  {
+    "language": "വൂൾഫ്",
+    "code": "wo"
+  },
+  {
+    "language": "സോസ",
+    "code": "xh"
+  },
+  {
+    "language": "യദിഷ്",
+    "code": "yi"
+  },
+  {
+    "language": "യൊറൂബ",
+    "code": "yo"
+  },
+  {
+    "language": "സുവാങ്",
+    "code": "za"
+  },
+  {
+    "language": "ചൈനീസ്",
+    "code": "zh"
+  },
+  {
+    "language": "സുലു",
+    "code": "zu"
+  }
+]

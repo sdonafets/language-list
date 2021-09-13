@@ -1,0 +1,726 @@
+[
+  {
+    "language": "अफ़ार",
+    "code": "aa"
+  },
+  {
+    "language": "अबखाज़ियन",
+    "code": "ab"
+  },
+  {
+    "language": "अफ्रीकी",
+    "code": "af"
+  },
+  {
+    "language": "अकन",
+    "code": "ak"
+  },
+  {
+    "language": "अम्हारिक",
+    "code": "am"
+  },
+  {
+    "language": "अर्गोनी",
+    "code": "an"
+  },
+  {
+    "language": "अरबी",
+    "code": "ar"
+  },
+  {
+    "language": "असमिया",
+    "code": "as"
+  },
+  {
+    "language": "अवार",
+    "code": "av"
+  },
+  {
+    "language": "आयमारा",
+    "code": "ay"
+  },
+  {
+    "language": "अज़रबैजानी",
+    "code": "az"
+  },
+  {
+    "language": "बश्किर",
+    "code": "ba"
+  },
+  {
+    "language": "बेलारूसी",
+    "code": "be"
+  },
+  {
+    "language": "बल्गेरियाई",
+    "code": "bg"
+  },
+  {
+    "language": "बिहारी",
+    "code": "bh"
+  },
+  {
+    "language": "बिस्लामा",
+    "code": "bi"
+  },
+  {
+    "language": "बम्बारा",
+    "code": "bm"
+  },
+  {
+    "language": "बंगाली",
+    "code": "bn"
+  },
+  {
+    "language": "तिब्बती",
+    "code": "bo"
+  },
+  {
+    "language": "ब्रेटन",
+    "code": "br"
+  },
+  {
+    "language": "बोस्नियाई",
+    "code": "bs"
+  },
+  {
+    "language": "कैटलन",
+    "code": "ca"
+  },
+  {
+    "language": "चेचन",
+    "code": "ce"
+  },
+  {
+    "language": "कैमोरो",
+    "code": "ch"
+  },
+  {
+    "language": "कॉर्सिकन",
+    "code": "co"
+  },
+  {
+    "language": "क्री",
+    "code": "cr"
+  },
+  {
+    "language": "चेक",
+    "code": "cs"
+  },
+  {
+    "language": "ओल्ड चर्च स्लावोनिक / ओल्ड बल्गेरियाई",
+    "code": "cu"
+  },
+  {
+    "language": "चुवाश",
+    "code": "cv"
+  },
+  {
+    "language": "वेल्श",
+    "code": "cy"
+  },
+  {
+    "language": "दानिश",
+    "code": "da"
+  },
+  {
+    "language": "जर्मन",
+    "code": "de"
+  },
+  {
+    "language": "दिवेही",
+    "code": "dv"
+  },
+  {
+    "language": "ज़ोंगखा",
+    "code": "dz"
+  },
+  {
+    "language": "ईवे",
+    "code": "ee"
+  },
+  {
+    "language": "ग्रीक",
+    "code": "el"
+  },
+  {
+    "language": "अंग्रेज़ी",
+    "code": "en"
+  },
+  {
+    "language": "एस्पेरान्तो",
+    "code": "eo"
+  },
+  {
+    "language": "स्पेनिश",
+    "code": "es"
+  },
+  {
+    "language": "एस्टोनियाई",
+    "code": "et"
+  },
+  {
+    "language": "बास्क",
+    "code": "eu"
+  },
+  {
+    "language": "फारसी",
+    "code": "fa"
+  },
+  {
+    "language": "पीउल",
+    "code": "ff"
+  },
+  {
+    "language": "फिनिश",
+    "code": "fi"
+  },
+  {
+    "language": "फ़ीजी",
+    "code": "fj"
+  },
+  {
+    "language": "फिरोज़ी",
+    "code": "fo"
+  },
+  {
+    "language": "फ्रेंच",
+    "code": "fr"
+  },
+  {
+    "language": "पश्चिम फ़्रिसियाई",
+    "code": "fy"
+  },
+  {
+    "language": "आयरिश",
+    "code": "ga"
+  },
+  {
+    "language": "स्कॉटिश गेलिक",
+    "code": "gd"
+  },
+  {
+    "language": "गैलिशियन्",
+    "code": "gl"
+  },
+  {
+    "language": "गुआरानी",
+    "code": "gn"
+  },
+  {
+    "language": "गुजराती",
+    "code": "gu"
+  },
+  {
+    "language": "मैंक्स",
+    "code": "gv"
+  },
+  {
+    "language": "हौसा",
+    "code": "ha"
+  },
+  {
+    "language": "हिब्रू",
+    "code": "he"
+  },
+  {
+    "language": "हिंदी",
+    "code": "hi"
+  },
+  {
+    "language": "हिरी मोटू",
+    "code": "ho"
+  },
+  {
+    "language": "क्रोएशियाई",
+    "code": "hr"
+  },
+  {
+    "language": "हाईटियन",
+    "code": "ht"
+  },
+  {
+    "language": "हंगेरियन",
+    "code": "hu"
+  },
+  {
+    "language": "अर्मेनियाई",
+    "code": "hy"
+  },
+  {
+    "language": "हेरो",
+    "code": "hz"
+  },
+  {
+    "language": "इंटरलिंगुआ",
+    "code": "ia"
+  },
+  {
+    "language": "इंडोनेशियाई",
+    "code": "id"
+  },
+  {
+    "language": "अंतरभाषा",
+    "code": "ie"
+  },
+  {
+    "language": "इग्बो",
+    "code": "ig"
+  },
+  {
+    "language": "सिचुआन यी",
+    "code": "ii"
+  },
+  {
+    "language": "इनुपियाक",
+    "code": "ik"
+  },
+  {
+    "language": "मैं करता हूँ",
+    "code": "io"
+  },
+  {
+    "language": "आइसलैंडिक",
+    "code": "is"
+  },
+  {
+    "language": "इतालवी",
+    "code": "it"
+  },
+  {
+    "language": "इनुक्टिटुट",
+    "code": "iu"
+  },
+  {
+    "language": "जापानी",
+    "code": "ja"
+  },
+  {
+    "language": "जावानीस",
+    "code": "jv"
+  },
+  {
+    "language": "जॉर्जियाई",
+    "code": "ka"
+  },
+  {
+    "language": "कांगो",
+    "code": "kg"
+  },
+  {
+    "language": "किकुयू",
+    "code": "ki"
+  },
+  {
+    "language": "कुआन्यामा",
+    "code": "kj"
+  },
+  {
+    "language": "कज़ाख",
+    "code": "kk"
+  },
+  {
+    "language": "ग्रीनलैंडिक",
+    "code": "kl"
+  },
+  {
+    "language": "कंबोडियन",
+    "code": "km"
+  },
+  {
+    "language": "कन्नड़",
+    "code": "kn"
+  },
+  {
+    "language": "कोरियाई",
+    "code": "ko"
+  },
+  {
+    "language": "कनुरी",
+    "code": "kr"
+  },
+  {
+    "language": "कश्मीरी",
+    "code": "ks"
+  },
+  {
+    "language": "कुर्द",
+    "code": "ku"
+  },
+  {
+    "language": "कोमी",
+    "code": "kv"
+  },
+  {
+    "language": "कोर्निश",
+    "code": "kw"
+  },
+  {
+    "language": "किर्गिज़",
+    "code": "ky"
+  },
+  {
+    "language": "लैटिन",
+    "code": "la"
+  },
+  {
+    "language": "लक्ज़मबर्ग",
+    "code": "lb"
+  },
+  {
+    "language": "गंडा",
+    "code": "lg"
+  },
+  {
+    "language": "लिम्बर्गियन",
+    "code": "li"
+  },
+  {
+    "language": "लिंगाला",
+    "code": "ln"
+  },
+  {
+    "language": "लाओटियन",
+    "code": "lo"
+  },
+  {
+    "language": "लिथुआनियाई",
+    "code": "lt"
+  },
+  {
+    "language": "लातवियाई",
+    "code": "lv"
+  },
+  {
+    "language": "मालागासी",
+    "code": "mg"
+  },
+  {
+    "language": "मार्शली",
+    "code": "mh"
+  },
+  {
+    "language": "माओरी",
+    "code": "mi"
+  },
+  {
+    "language": "मैसेडोनिया",
+    "code": "mk"
+  },
+  {
+    "language": "मलयालम",
+    "code": "ml"
+  },
+  {
+    "language": "मंगोलियाई",
+    "code": "mn"
+  },
+  {
+    "language": "मोल्दोवन",
+    "code": "mo"
+  },
+  {
+    "language": "मराठी",
+    "code": "mr"
+  },
+  {
+    "language": "मलय",
+    "code": "ms"
+  },
+  {
+    "language": "माल्टीज़",
+    "code": "mt"
+  },
+  {
+    "language": "बर्मी",
+    "code": "my"
+  },
+  {
+    "language": "नौरुआन",
+    "code": "na"
+  },
+  {
+    "language": "उत्तर Ndebele",
+    "code": "nd"
+  },
+  {
+    "language": "नेपाली",
+    "code": "ne"
+  },
+  {
+    "language": "नडोंगा",
+    "code": "ng"
+  },
+  {
+    "language": "डच",
+    "code": "nl"
+  },
+  {
+    "language": "नार्वेजियन नाइनोर्स्क",
+    "code": "nn"
+  },
+  {
+    "language": "नार्वेजियन",
+    "code": "no"
+  },
+  {
+    "language": "दक्षिण नदेबेले",
+    "code": "nr"
+  },
+  {
+    "language": "नवाजो",
+    "code": "nv"
+  },
+  {
+    "language": "चिचेवा",
+    "code": "ny"
+  },
+  {
+    "language": "ओसीटान",
+    "code": "oc"
+  },
+  {
+    "language": "ओजिब्वा",
+    "code": "oj"
+  },
+  {
+    "language": "ओरोमो",
+    "code": "om"
+  },
+  {
+    "language": "ओरिया",
+    "code": "or"
+  },
+  {
+    "language": "ओस्सेटियन",
+    "code": "os"
+  },
+  {
+    "language": "पंजाबी",
+    "code": "pa"
+  },
+  {
+    "language": "पाली",
+    "code": "pi"
+  },
+  {
+    "language": "पोलिश",
+    "code": "pl"
+  },
+  {
+    "language": "पश्तो",
+    "code": "ps"
+  },
+  {
+    "language": "पुर्तगाली",
+    "code": "pt"
+  },
+  {
+    "language": "क्वेशुआ",
+    "code": "qu"
+  },
+  {
+    "language": "रेटो रोमांस",
+    "code": "rm"
+  },
+  {
+    "language": "किरुंडी",
+    "code": "rn"
+  },
+  {
+    "language": "रोमानियाई",
+    "code": "ro"
+  },
+  {
+    "language": "रूसी",
+    "code": "ru"
+  },
+  {
+    "language": "रवांडी",
+    "code": "rw"
+  },
+  {
+    "language": "संस्कृत",
+    "code": "sa"
+  },
+  {
+    "language": "सार्डिनियन",
+    "code": "sc"
+  },
+  {
+    "language": "सिंधी",
+    "code": "sd"
+  },
+  {
+    "language": "सांगो",
+    "code": "sg"
+  },
+  {
+    "language": "सर्बो-क्रोएशियाई",
+    "code": "sh"
+  },
+  {
+    "language": "सिंहली",
+    "code": "si"
+  },
+  {
+    "language": "स्लोवाक",
+    "code": "sk"
+  },
+  {
+    "language": "स्लोवेनियाई",
+    "code": "sl"
+  },
+  {
+    "language": "सामोन",
+    "code": "sm"
+  },
+  {
+    "language": "शोना",
+    "code": "sn"
+  },
+  {
+    "language": "सोमालिया",
+    "code": "so"
+  },
+  {
+    "language": "अल्बानियाई",
+    "code": "sq"
+  },
+  {
+    "language": "सर्बियाई",
+    "code": "sr"
+  },
+  {
+    "language": "स्वाति",
+    "code": "ss"
+  },
+  {
+    "language": "दक्षिणी सोथो",
+    "code": "st"
+  },
+  {
+    "language": "सुंडानी",
+    "code": "su"
+  },
+  {
+    "language": "स्वीडिश",
+    "code": "sv"
+  },
+  {
+    "language": "स्वाहिली",
+    "code": "sw"
+  },
+  {
+    "language": "तमिल",
+    "code": "ta"
+  },
+  {
+    "language": "तेलुगु",
+    "code": "te"
+  },
+  {
+    "language": "ताजिक",
+    "code": "tg"
+  },
+  {
+    "language": "थाई",
+    "code": "th"
+  },
+  {
+    "language": "तिग्रीन्या",
+    "code": "ti"
+  },
+  {
+    "language": "तुर्कमेन",
+    "code": "tk"
+  },
+  {
+    "language": "तागालोग",
+    "code": "tl"
+  },
+  {
+    "language": "त्सवाना",
+    "code": "tn"
+  },
+  {
+    "language": "टोंगा",
+    "code": "to"
+  },
+  {
+    "language": "तुर्की",
+    "code": "tr"
+  },
+  {
+    "language": "सोंगा",
+    "code": "ts"
+  },
+  {
+    "language": "तातार",
+    "code": "tt"
+  },
+  {
+    "language": "ट्वी",
+    "code": "tw"
+  },
+  {
+    "language": "ताहिती",
+    "code": "ty"
+  },
+  {
+    "language": "उइघुर",
+    "code": "ug"
+  },
+  {
+    "language": "यूक्रेनी",
+    "code": "uk"
+  },
+  {
+    "language": "उर्दू",
+    "code": "ur"
+  },
+  {
+    "language": "वेंडा",
+    "code": "ve"
+  },
+  {
+    "language": "वियतनामी",
+    "code": "vi"
+  },
+  {
+    "language": "वोलापुक",
+    "code": "vo"
+  },
+  {
+    "language": "वालून",
+    "code": "wa"
+  },
+  {
+    "language": "वुलोफ़",
+    "code": "wo"
+  },
+  {
+    "language": "झोसा",
+    "code": "xh"
+  },
+  {
+    "language": "यिडिश",
+    "code": "yi"
+  },
+  {
+    "language": "योरूबा",
+    "code": "yo"
+  },
+  {
+    "language": "ज़ुआंग",
+    "code": "za"
+  },
+  {
+    "language": "चीनी",
+    "code": "zh"
+  },
+  {
+    "language": "ज़ुलु",
+    "code": "zu"
+  }
+]
